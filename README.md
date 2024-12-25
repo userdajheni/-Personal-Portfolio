@@ -91,11 +91,11 @@ E o melhor de tudo: você poderá dar o próximo passo para dominar animações 
 
 ## 🏷️ Tags 🔖
 
-   * CSS
-   * Responsive Design
-   * Box Model
-   * Typography
-   * Flexbox
+- `CSS`
+- `Responsive Design`
+- `Box Model`
+- `Typography`
+- `Flexbox`
 
 &nbsp;
 
