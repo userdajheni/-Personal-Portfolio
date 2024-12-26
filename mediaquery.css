@@ -1,0 +1,11 @@
+/* os estilos só serão aplicados se a largura da viewport (área visível da tela) for igual ou MAIOR que 810 pixels. */
+@media all and (min-width: 768px) {
+    div.menu {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    div.banner {
+        margin: 50px 0;
+    }
+}
